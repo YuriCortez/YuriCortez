@@ -1,2 +1,2 @@
-![image](https://github.com/user-attachments/assets/2326e42b-6709-4824-9c5b-9041e62c4a0a)
-Fiz o processo correto, So nao aparece as informacoes do email/senha
+![image](https://github.com/user-attachments/assets/220974c1-d086-4fb9-ab73-525e586c7a9d)
+Teste feito com o site do GITHUB
